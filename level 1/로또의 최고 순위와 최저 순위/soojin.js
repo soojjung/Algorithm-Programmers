@@ -10,7 +10,7 @@ function solution(lottos, win_nums) {
     })
     
     winOrZeros.map(num => {
-        if(num >0) {
+        if(num > 0) {
             correctCount += 1;
         }
     })
@@ -20,3 +20,4 @@ function solution(lottos, win_nums) {
     
     return result;
 }
+
