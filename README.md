@@ -25,3 +25,7 @@ programmers 알고리즘 문제를 풀며 자바스크립트 문법과 로직을
 
 브랜치명 : feature/[본인이름]
 본인 브랜치에서 작업하신 후에 pull request 작성후 본인이 병합 해주시면 됩니다.
+
+## 코딩테스트 고득점 Kit
+
+https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
