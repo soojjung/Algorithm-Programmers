@@ -4,7 +4,6 @@ class Queue {
     this.queue = [];
     this.front = 0; // 큐의 맨 앞 index
     this.rear = 0; // 큐의 맨 뒤 index
-    this.size = 0;
   }
 
   // 큐의 맨 뒤 요소를 추가하는 것
